@@ -1,14 +1,14 @@
 - Hi, I’m Mark-Suckau
 
 - Programming Languages:
-  -Javascript
-  -Typescript
-  -Python
-  -Java
-  -C#
-  -SQL
-  -HTML
-  -CSS
+  Javascript
+  Typescript
+  Python
+  Java
+  C#
+  SQL
+  HTML
+  CSS
   
 - Reach me at Mark.Suckau.Coding@gmail.com
 
